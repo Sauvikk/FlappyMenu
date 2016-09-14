@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">FlappyMenu</string>
+    <string name="undo_deletion_travel">WOOHOO! &#160;&#160;\nI\'VE MADE IT!</string>
+    <string name="material_icon_check">&#xe867;</string>
+    <string name="fontello_heart_empty">&#xe9b5;</string>
+    <string name="fontello_icon_rupee">&#xf156;</string>
+    <string name="fontello_icon_arrow">&#xf178;</string>
+    <string name="fontello_icon_paypal">&#xf1f4;</string>
+    <string name="fontello_icon_american_express">&#xf1f3;</string>
+    <string name="fontello_icon_mastercard">&#xf1f1;</string>
+    <string name="fontello_icon_visa">&#xf1f0;</string>
+
+    <string name="fontello_icon_dollar">&#xf155;</string>
+    <string name="fontello_icon_taxi">&#xf1ba;</string>
+    <string name="fontello_icon_coffee">&#xe891;</string>
+    <string name="fontello_icon_flight">&#xe8ae;</string>
+    <string name="fontello_icon_pharmacy">&#xea68;</string>
+    <string name="fontello_icon_pizza">&#xea79;</string>
 </resources>
